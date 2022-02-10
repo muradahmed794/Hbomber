@@ -63,7 +63,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Xbomber is the pioneer of sms and call bombers in Bangladesh. For a long time, this was a closed source project. But we ***Team X 1337*** have decided to make it open source so that everyone can gain knowledge from this project and create their own project from this github template. You can contribute by providing this project working APIs and removing the dead APIs. For more about contributing, follow the <a href="#contributing">Contributing</a> section.
+Xbomber is the pioneer of sms and call bombers in Bangladesh. For a long time, this was a closed source project. But we ***Murad X*** have decided to make it open source so that everyone can gain knowledge from this project and create their own project from this github template. You can contribute by providing this project working APIs and removing the dead APIs. For more about contributing, follow the <a href="#contributing">Contributing</a> section.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -95,9 +95,9 @@ To host your bomber directly into Github Pages
 ### Local development
 
 1. Clone the repository
-   ```sh
-   git clone https://github.com/WeAreTeamX/xbomber-web-community-edition.git
-   ```
+   
+https://www.facebook.com/MURAD.CEO32
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -150,20 +150,16 @@ Distributed under the GNU GENERAL PUBLIC LICENSE License. See `LICENSE` for more
 
 
 
-<!-- CONTACT -->
-## Contact
-
-**Ign0r3dH4x0r** ***(Maintainer)***
-- [![Facebook Page](https://img.shields.io/badge/Facebook-Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ign0r3dh4x0r)&nbsp;
-- [![Facebook Profile](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ffsowmik)&nbsp;
-- [![Telegram](https://img.shields.io/badge/Telegram-ID-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xowmik)&nbsp;
-
-**Team X 1337**
-- [![Facebook Group](https://img.shields.io/badge/Facebook-Group-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/groups/team.x.official.community)&nbsp;
-- [![Facebook Page](https://img.shields.io/badge/Facebook-Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ign0r3dh4x0r)&nbsp;
-- [![Telegram](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Teamx1337official)&nbsp;
 
 
+
+
+
+
+
+
+**MURAD X**
+- [![Facebook ACCOUNT](https://www.facebook.com/MURAD.CEO32
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
